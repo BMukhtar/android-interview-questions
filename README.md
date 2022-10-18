@@ -1,4 +1,4 @@
-## This is a short version of android interview questions. And initially prepared and maintained by [Amit Shekhar](https://github.com/amitshekhariitbhu) who is having experience of taking interviews of many Android developers and cracking interviews of top companies.
+## This is a short version of android interview questions. Initially prepared and maintained by [Amit Shekhar](https://github.com/amitshekhariitbhu) who is having experience of taking interviews of many Android developers and cracking interviews of top companies.
 
 ## Contents
 
