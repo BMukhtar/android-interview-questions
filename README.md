@@ -8,8 +8,6 @@
 * [Android Unit Testing](#android-unit-testing)
 * [Android Tools And Technologies](#android-tools-and-technologies)
 * [Kotlin](#java-and-kotlin)
-* [Data Structures And Algorithms](#data-structures-and-algorithms)
-* [Other Topics](#other-topics)
 
 ### Core Android
 
@@ -241,8 +239,6 @@
 * **What is Gradle?** - [Learn from here](https://blog.mindorks.com/gradle-for-android-developers-getting-the-most-of-it)
 
 ### Kotlin
-
-#### OOP
 
 * **Explain OOP Concepts.**
     - Object-Oriented Programming is a methodology of designing a program using classes, objects, 
