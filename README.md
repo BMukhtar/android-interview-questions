@@ -70,10 +70,6 @@
     - When you have some UI components to be used across various activities
     - When multiple view can be displayed side by side just like viewPager
 
-* **What is the difference between FragmentPagerAdapter vs FragmentStatePagerAdapter?**
-    - FragmentPagerAdapter: Each fragment visited by the user will be stored in the memory but the view will be destroyed. When the page is revisited, then the view will be created not the instance of the fragment.
-    - FragmentStatePagerAdapter: Here, the fragment instance will be destroyed when it is not visible to the user, except the saved state of the fragment.
-
 * **What is the difference between adding/replacing fragment in backstack?** - [Learn from here](https://stackoverflow.com/questions/24466302/basic-difference-between-add-and-replace-method-of-fragment/24466345)
 
 * **Why is it recommended to use only the default constructor to create a `Fragment`?** - [Learn from here](https://www.youtube.com/watch?v=9EdvcycKP9A)
@@ -100,10 +96,6 @@
 
 * **What is a Canvas?** - [Learn from here](https://blog.mindorks.com/understanding-canvas-api-in-android)
 
-* **What is a `SurfaceView`?** - [Learn from here](https://developer.android.com/reference/android/view/SurfaceView)
-
-* **Relative Layout vs Linear Layout.** - [Learn from here](https://blog.mindorks.com/android-layout-relative-linear-frame)
-
 * **Tell about Constraint Layout** - [Learn from here](https://blog.mindorks.com/using-constraint-layout-in-android-531e68019cd)
 
 * **Do you know what is the view tree? How can you optimize its depth?** - [Learn from here](https://developer.android.com/reference/android/view/ViewTreeObserver)
@@ -111,8 +103,6 @@
 * **How does the Touch Control and Events work in Android?** - [Learn from here](https://blog.mindorks.com/touch-control-and-events-in-android) and [here](https://www.youtube.com/watch?v=tKeYr7iV5xE)
 
 #### Displaying Lists of Content
-
-* **What is the difference between `ListView` and `RecyclerView`?** - [Learn from here](https://stackoverflow.com/questions/26728651/recyclerview-vs-listview)
 
 * **How does RecyclerView work internally?** - [Learn from here](https://blog.mindorks.com/how-does-recyclerview-work-internally) and [here](https://www.youtube.com/watch?v=60IYWdnHsZI)
 
@@ -154,21 +144,11 @@
 
 * **What are the different types of Broadcasts?** - [Learn from here](https://developer.android.com/guide/components/broadcasts)
 
-#### Services
-
-* **What is `Service`?** - [Learn from here](https://developer.android.com/guide/components/services)
-
-* **`Service` vs `IntentService`.** - [Learn from here](https://blog.mindorks.com/service-vs-intentservice-in-android)
-
-* **What is a `JobScheduler`?** - [Learn from here](https://developer.android.com/reference/android/app/job/JobScheduler)
-
 #### Inter-process Communication
 
 * **How can two distinct Android apps interact?** - [Learn from here](https://developer.android.com/training/basics/intents)
 
 * **Is it possible to run an Android app in multiple processes? How?** - [Learn from here](https://stackoverflow.com/questions/6567768/how-can-an-android-application-have-more-than-one-process)
-
-* **What is AIDL? Enumerate the steps in creating a bounded service through AIDL.** - [Learn from here](https://developer.android.com/guide/components/aidl)
 
 * **What can you use for background processing in Android?** - [Learn from here](https://developer.android.com/guide/background)
 
@@ -181,12 +161,6 @@
 * **Why should you avoid to run non-ui code on the main thread?** - [Learn from here](https://developer.android.com/training/multiple-threads/communicate-ui)
 
 * **What is ANR? How can the ANR be prevented?** - [Learn from here](https://developer.android.com/topic/performance/vitals/anr.html)
-
-* **What is an `AsyncTask`(Deprecated in API level 30) ?** - [Learn from here](https://www.youtube.com/watch?v=ZZ-6nGbfVdA)
-
-* **What are the problems in AsyncTask?** - [Learn from here](https://www.youtube.com/watch?v=ZZ-6nGbfVdA)
-
-* **When would you use java thread instead of an AsyncTask?** - [Learn from here](https://stackoverflow.com/questions/18480206/asynctask-vs-thread-in-android)
 
 * **What is a `Loader`? (Deprecated)** - [Learn from here](https://developer.android.com/guide/components/loaders)
 
