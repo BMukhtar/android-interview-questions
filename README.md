@@ -7,7 +7,7 @@
 * [Android Architecture](#android-architecture)
 * [Android Unit Testing](#android-unit-testing)
 * [Android Tools And Technologies](#android-tools-and-technologies)
-* [Kotlin](#java-and-kotlin)
+* [Kotlin](#kotlin)
 
 ### Core Android
 
